@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"Uad1",1," Arduino Uno R3"
+"SENmoist1",1," Soil Moisture Sensor"
+"Utemp1",1," Temperature Sensor [TMP36]"
+"Uphoto1",1," Photodiode"
+"Rresi1",1,"4.7 kΩ Resistor"
+"Tnpn1",1," NPN Transistor (BJT)"
+"Rres2",1,"330 Ω Resistor"
+"Mmotor1",1," DC Motor"
